@@ -68,7 +68,7 @@ export const youssef = {
             id: 6,
             name: "Cookpedia",
             thumbnail: './images/projects/Cookpedia.png',
-            description: "A Next.js app using TheMealDB API with features like browsing meals by category or region, viewing featured recipes, and a responsive design for smooth navigation.",
+            description: "A Next.js app using TheMealDB API with features like browsing meals by category or region, viewing featured recipes.",
             tech: ["HTML", "CSS", "React", "Bootstrap", "Next.js"],
             liveLink: "https://cookpedia-eta.vercel.app/",
             githubLink: "https://github.com/You-s-sef24/cookpedia"
