@@ -6,7 +6,7 @@ export const youssef = {
     job: "Frontend Developer",
     bio: "A creative frontend developer who transforms concepts into fast, elegant, and mobile-friendly web applications using React, JavaScript, HTML, and CSS. Always exploring the next big thing in web development.",
     skills: {
-        frontend: [{ name: "HTML", exp: 95 }, { name: "CSS", exp: 75 }, { name: "JavaScript", exp: 85 }, { name: "React", exp: 90 }, { name: "Next.js", exp: 95 }],
+        frontend: [{ name: "HTML", exp: 95 }, { name: "CSS", exp: 75 }, { name: "JavaScript", exp: 85 }, { name: "Bootstrap", exp: 90 }, { name: "React", exp: 90 }, { name: "Next.js", exp: 95 }],
         tools: [{ name: "Git", exp: 90 }, { name: "GitHub", exp: 90 }, { name: "Postman", exp: 90 }],
     },
     languages: ["Arabic (Native)", "English (Professional)"],
